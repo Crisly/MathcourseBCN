@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.6.19)  7 OCT 2014 09:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.6.19)  7 OCT 2014 09:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -751,20 +751,20 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 (./math.aux)
 \openout1 = `math.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 98.
-LaTeX Font Info:    ... okay on input line 98.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 100.
+LaTeX Font Info:    ... okay on input line 100.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -830,7 +830,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box54
-Package hyperref Info: Link coloring OFF on input line 98.
+Package hyperref Info: Link coloring OFF on input line 100.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -840,66 +840,66 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count163
 )
-LaTeX Info: Redefining \ref on input line 98.
-LaTeX Info: Redefining \pageref on input line 98.
-LaTeX Info: Redefining \nameref on input line 98.
+LaTeX Info: Redefining \ref on input line 100.
+LaTeX Info: Redefining \pageref on input line 100.
+LaTeX Info: Redefining \nameref on input line 100.
 
 (./math.out) (./math.out)
 \@outlinefile=\write5
 \openout5 = `math.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 98.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 100.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 98.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 100.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 98.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 98.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 100.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 98.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 98.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 98.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 100.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 98.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 98.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 98.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 100.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 98.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 98.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 98.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 100.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 98.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 98.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 100.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 98.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 100.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 98.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 98.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 98.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 98.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 98.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 100.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 98.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 98.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 100.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 100.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 9
-8.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
+00.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-98.
+100.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 98.
+ut line 100.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/beamer/translator/dicts/translato
 r-basic-dictionary/translator-basic-dictionary-English.dict
@@ -925,11 +925,11 @@ Dictionary: translator-numbers-dictionary, Language: English
 r-theorem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 98.
+LaTeX Info: Redefining \includegraphics on input line 100.
  (./math.nav)
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 102.
+(Font)              size <5> substituted on input line 104.
 
 [1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
@@ -941,18 +941,18 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 ] [4
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 167.
+LaTeX Font Info:    Try loading font information for U+msa on input line 169.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 167.
+LaTeX Font Info:    Try loading font information for U+msb on input line 169.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 167.
+line 169.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
@@ -960,7 +960,7 @@ thkerncmss.
 ) <figure1.png, id=170, 361.35pt x 361.35pt>
 File: figure1.png Graphic file (type png)
  <use figure1.png>
-Package pdftex.def Info: figure1.png used on input line 167.
+Package pdftex.def Info: figure1.png used on input line 169.
 (pdftex.def)             Requested size: 153.64493pt x 153.64615pt.
  [5
 
@@ -971,10 +971,10 @@ Package pdftex.def Info: figure1.png used on input line 167.
 ] <figure2a.png, id=272, 361.35pt x 361.35pt>
 File: figure2a.png Graphic file (type png)
  <use figure2a.png>
-Package pdftex.def Info: figure2a.png used on input line 244.
+Package pdftex.def Info: figure2a.png used on input line 246.
 (pdftex.def)             Requested size: 169.01036pt x 169.00746pt.
 
-Overfull \vbox (41.54782pt too high) detected at line 244
+Overfull \vbox (41.54782pt too high) detected at line 246
  []
 
 [8
@@ -985,10 +985,10 @@ Overfull \vbox (41.54782pt too high) detected at line 244
 File: figure2b.png Graphic file (type png)
 
 <use figure2b.png>
-Package pdftex.def Info: figure2b.png used on input line 274.
+Package pdftex.def Info: figure2b.png used on input line 276.
 (pdftex.def)             Requested size: 199.73653pt x 199.73558pt.
 
-Overfull \vbox (13.66655pt too high) detected at line 274
+Overfull \vbox (13.66655pt too high) detected at line 276
  []
 
 [10
@@ -1001,10 +1001,10 @@ Overfull \vbox (13.66655pt too high) detected at line 274
 File: figure3a.png Graphic file (type png)
 
 <use figure3a.png>
-Package pdftex.def Info: figure3a.png used on input line 318.
+Package pdftex.def Info: figure3a.png used on input line 320.
 (pdftex.def)             Requested size: 199.73653pt x 199.73558pt.
 
-Overfull \vbox (44.07596pt too high) detected at line 318
+Overfull \vbox (44.07596pt too high) detected at line 320
  []
 
 [13
@@ -1013,10 +1013,10 @@ Overfull \vbox (44.07596pt too high) detected at line 318
 File: figure3b.png Graphic file (type png)
 
 <use figure3b.png>
-Package pdftex.def Info: figure3b.png used on input line 331.
+Package pdftex.def Info: figure3b.png used on input line 333.
 (pdftex.def)             Requested size: 199.73653pt x 199.73558pt.
 
-Overfull \vbox (44.07596pt too high) detected at line 331
+Overfull \vbox (44.07596pt too high) detected at line 333
  []
 
 [14
@@ -1025,48 +1025,48 @@ Overfull \vbox (44.07596pt too high) detected at line 331
 
 ]
 
-./math.tex:366: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:368: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.366 \end{frame}
+l.368 \end{frame}
                  
 ? s
 OK, entering \scrollmode...
 
-./math.tex:366: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:368: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.366 \end{frame}
+l.368 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./math.tex:366: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:368: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.366 \end{frame}
+l.368 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./math.tex:366: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:368: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.366 \end{frame}
+l.368 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1074,10 +1074,10 @@ If that doesn't work, type  X <return>  to quit.
 <fig_pyth.png, id=522, 437.635pt x 375.4025pt>
 File: fig_pyth.png Graphic file (type png)
  <use fig_pyth.png>
-Package pdftex.def Info: fig_pyth.png used on input line 366.
+Package pdftex.def Info: fig_pyth.png used on input line 368.
 (pdftex.def)             Requested size: 169.01035pt x 144.97433pt.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 366--366
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 368--368
  [] 
  []
 
@@ -1085,37 +1085,37 @@ Overfull \hbox (15.36542pt too wide) in paragraph at lines 366--366
 
  <./fig_pyth.png>]
 
-./math.tex:376: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:378: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.376 \end{frame}
+l.378 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./math.tex:376: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:378: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.376 \end{frame}
+l.378 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./math.tex:376: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:378: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.376 \end{frame}
+l.378 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1125,7 +1125,7 @@ If that doesn't work, type  X <return>  to quit.
 ] <abc.png, id=585, 222.8325pt x 190.7125pt>
 File: abc.png Graphic file (type png)
  <use abc.png>
-Package pdftex.def Info: abc.png used on input line 396.
+Package pdftex.def Info: abc.png used on input line 398.
 (pdftex.def)             Requested size: 122.9164pt x 105.19774pt.
  [18
 
@@ -1138,43 +1138,43 @@ Package pdftex.def Info: abc.png used on input line 396.
 File: angle_vector.png Graphic file (type png)
 
 <use angle_vector.png>
-Package pdftex.def Info: angle_vector.png used on input line 441.
+Package pdftex.def Info: angle_vector.png used on input line 443.
 (pdftex.def)             Requested size: 153.64493pt x 134.5189pt.
  [21
 
  <./angle_vector.png>]
 
-./math.tex:455: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:457: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.455 \end{frame}
+l.457 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./math.tex:455: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:457: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.455 \end{frame}
+l.457 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-./math.tex:455: LaTeX Error: \mathbf allowed only in math mode.
+./math.tex:457: LaTeX Error: \mathbf allowed only in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.455 \end{frame}
+l.457 \end{frame}
                  
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -1184,12 +1184,12 @@ If that doesn't work, type  X <return>  to quit.
 ] <figure4a.png, id=740, 361.35pt x 361.35pt>
 File: figure4a.png Graphic file (type png)
  <use figure4a.png>
-Package pdftex.def Info: figure4a.png used on input line 473.
+Package pdftex.def Info: figure4a.png used on input line 475.
 (pdftex.def)             Requested size: 153.64493pt x 153.64615pt.
  [23
 
  <./figure4a.png>]
-Overfull \hbox (28.45975pt too wide) detected at line 520
+Overfull \hbox (28.45975pt too wide) detected at line 522
 \OT1/cmss/bx/n/10.95 p \OT1/cmss/m/n/10.95 = []\OT1/cmss/bx/n/10.95 v \OT1/cmss
 /m/n/10.95 = [] [] = []
  []
@@ -1197,7 +1197,7 @@ Overfull \hbox (28.45975pt too wide) detected at line 520
 <figure4b.png, id=772, 361.35pt x 361.35pt>
 File: figure4b.png Graphic file (type png)
  <use figure4b.png>
-Package pdftex.def Info: figure4b.png used on input line 520.
+Package pdftex.def Info: figure4b.png used on input line 522.
 (pdftex.def)             Requested size: 138.2795pt x 138.27933pt.
  [24
 
@@ -1205,22 +1205,22 @@ Package pdftex.def Info: figure4b.png used on input line 520.
 
 ]
 
-./math.tex:556: LaTeX Error: Bad math environment delimiter.
+./math.tex:558: LaTeX Error: Bad math environment delimiter.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.556 \end{frame}
+l.558 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./math.tex:556: Missing \endgroup inserted.
+./math.tex:558: Missing \endgroup inserted.
 <inserted text> 
                 \endgroup 
-l.556 \end{frame}
+l.558 \end{frame}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1229,66 +1229,66 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-./math.tex:556: LaTeX Error: \begin{beamer@framepauses} on input line 556 ended
+./math.tex:558: LaTeX Error: \begin{beamer@framepauses} on input line 558 ended
  by \end{equation*}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.556 \end{frame}
+l.558 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./math.tex:556: LaTeX Error: There's no line here to end.
+./math.tex:558: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.556 \end{frame}
+l.558 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./math.tex:556: Missing $ inserted.
+./math.tex:558: Missing $ inserted.
 <inserted text> 
                 $
-l.556 \end{frame}
+l.558 \end{frame}
                  
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-./math.tex:556: Display math should end with $$.
+./math.tex:558: Display math should end with $$.
 <to be read again> 
                    \par 
-l.556 \end{frame}
+l.558 \end{frame}
                  
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
 
-./math.tex:556: LaTeX Error: \begin{beamer@frameslide} on input line 556 ended 
+./math.tex:558: LaTeX Error: \begin{beamer@frameslide} on input line 558 ended 
 by \end{beamer@framepauses}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.556 \end{frame}
+l.558 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./math.tex:556: Missing } inserted.
+./math.tex:558: Missing } inserted.
 <inserted text> 
                 }
-l.556 \end{frame}
+l.558 \end{frame}
                  
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1296,18 +1296,18 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-./math.tex:556: Too many }'s.
+./math.tex:558: Too many }'s.
 \endbeamer@frameslide ...amer@framepauses}\egroup 
                                                   \ifx \beamer@frametitle \@...
-l.556 \end{frame}
+l.558 \end{frame}
                  
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-./math.tex:556: Undefined control sequence.
+./math.tex:558: Undefined control sequence.
 \endbeamer@frameslide ...box \else \beamer@zoomer 
                                                   \fi \beamer@undolabels \be...
-l.556 \end{frame}
+l.558 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1316,23 +1316,23 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./math.tex:556: LaTeX Error: \begin{document} ended by \end{beamer@frameslide}.
+./math.tex:558: LaTeX Error: \begin{document} ended by \end{beamer@frameslide}.
 
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.556 \end{frame}
+l.558 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./math.tex:556: Extra \endgroup.
+./math.tex:558: Extra \endgroup.
 <recently read> \endgroup 
                           
-l.556 \end{frame}
+l.558 \end{frame}
                  
 Things are pretty mixed up, but I think the worst is over.
 
@@ -1346,7 +1346,7 @@ Overfull \vbox (5.41914pt too high) has occurred while \output is active []
 
 
 [27]
-Overfull \hbox (20.16495pt too wide) detected at line 576
+Overfull \hbox (20.16495pt too wide) detected at line 578
 [] \OT1/cmss/m/n/10.95 = [][] [] \OMS/cmsy/m/n/10.95 ^^@ \OT1/mathkerncmss/m/sl
 /10.95 a[] [] \OT1/cmss/m/n/10.95 + \OT1/mathkerncmss/m/sl/10.95 a[] []
  []
@@ -1354,7 +1354,7 @@ Overfull \hbox (20.16495pt too wide) detected at line 576
 [28
 
 ]
-Overfull \hbox (20.16495pt too wide) detected at line 595
+Overfull \hbox (20.16495pt too wide) detected at line 597
 [] \OT1/cmss/m/n/10.95 = \OT1/mathkerncmss/m/sl/10.95 a[] [] \OMS/cmsy/m/n/10.9
 5 ^^@ [][] [] \OT1/cmss/m/n/10.95 + \OT1/mathkerncmss/m/sl/10.95 a[] []
  []
@@ -1362,7 +1362,7 @@ Overfull \hbox (20.16495pt too wide) detected at line 595
 [29
 
 ]
-Overfull \hbox (20.16495pt too wide) detected at line 624
+Overfull \hbox (20.16495pt too wide) detected at line 626
 [] \OT1/cmss/m/n/10.95 = \OT1/mathkerncmss/m/sl/10.95 a[] [] \OMS/cmsy/m/n/10.9
 5 ^^@ \OT1/mathkerncmss/m/sl/10.95 a[] [] \OT1/cmss/m/n/10.95 + [][] []
  []
@@ -1387,10 +1387,10 @@ Overfull \hbox (20.16495pt too wide) detected at line 624
 <parallelogram.png, id=1201, 580.1675pt x 340.27126pt>
 File: parallelogram.png Graphic file (type png)
  <use parallelogram.png>
-Package pdftex.def Info: parallelogram.png used on input line 785.
+Package pdftex.def Info: parallelogram.png used on input line 787.
 (pdftex.def)             Requested size: 215.10196pt x 126.15799pt.
 
-Overfull \vbox (17.53587pt too high) detected at line 785
+Overfull \vbox (17.53587pt too high) detected at line 787
  []
 
 [38
@@ -1400,96 +1400,96 @@ Overfull \vbox (17.53587pt too high) detected at line 785
 File: volume_parallelepiped.png Graphic file (type png)
 
 <use volume_parallelepiped.png>
-Package pdftex.def Info: volume_parallelepiped.png used on input line 809.
+Package pdftex.def Info: volume_parallelepiped.png used on input line 811.
 (pdftex.def)             Requested size: 153.64493pt x 92.0173pt.
  [39
 
  <./volume_parallelepiped.png>]
 
-./math.tex:823: LaTeX Error: Environment itememize undefined.
+./math.tex:825: LaTeX Error: Environment itememize undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.823 \end{frame}
+l.825 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./math.tex:823: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./math.tex:825: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.823 \end{frame}
+l.825 \end{frame}
                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 823
+Underfull \hbox (badness 10000) detected at line 825
 [][]
  []
 
 
-./math.tex:823: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./math.tex:825: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.823 \end{frame}
+l.825 \end{frame}
                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 823
+Underfull \hbox (badness 10000) detected at line 825
 [][]
  []
 
 
-./math.tex:823: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./math.tex:825: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.823 \end{frame}
+l.825 \end{frame}
                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 823
+Underfull \hbox (badness 10000) detected at line 825
 [][]
  []
 
 
-./math.tex:823: LaTeX Error: Lonely \item--perhaps a missing list environment.
+./math.tex:825: LaTeX Error: Lonely \item--perhaps a missing list environment.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.823 \end{frame}
+l.825 \end{frame}
                  
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) detected at line 823
+Underfull \hbox (badness 10000) detected at line 825
 [][]
  []
 
-./math.tex:823: Undefined control sequence.
+./math.tex:825: Undefined control sequence.
 <argument> .../enumerate \beameritemnestingprefix 
                                                   body end
-l.823 \end{frame}
+l.825 \end{frame}
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1498,14 +1498,14 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-./math.tex:823: LaTeX Error: \begin{beamer@framepauses} on input line 823 ended
+./math.tex:825: LaTeX Error: \begin{beamer@framepauses} on input line 825 ended
  by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.823 \end{frame}
+l.825 \end{frame}
                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1527,11 +1527,11 @@ or  <return>  to continue without it.
 \tf@snm=\write8
 \openout8 = `math.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 841.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 841.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 843.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 843.
  (./math.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 841.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 841.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 843.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 843.
 Package rerunfilecheck Info: File `math.out' has not changed.
 (rerunfilecheck)             Checksum: 172C0E664F7A400396AE715048D970B6;229.
 
@@ -1539,12 +1539,12 @@ Package rerunfilecheck Info: File `math.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 841.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 843.
  ) 
 Here is how much of TeX's memory you used:
  16969 strings out of 493117
  325881 string characters out of 6135433
- 394086 words of memory out of 5000000
+ 394128 words of memory out of 5000000
  19923 multiletter control sequences out of 15000+600000
  16661 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1561,7 +1561,7 @@ local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/
 local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on math.pdf (42 pages, 328211 bytes).
+Output written on math.pdf (42 pages, 329608 bytes).
 PDF statistics:
  1419 PDF objects out of 1440 (max. 8388607)
  1317 compressed objects within 14 object streams
