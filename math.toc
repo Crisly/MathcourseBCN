@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Background}{3}{0}{1}
+\beamer@sectionintoc {2}{Vector addition and scalar multiplication}{7}{0}{2}
+\beamer@sectionintoc {3}{Vector inner and outer products}{15}{0}{3}
+\beamer@sectionintoc {4}{summary}{40}{0}{4}
