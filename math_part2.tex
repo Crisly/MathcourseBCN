@@ -241,7 +241,7 @@ Traditionally, the correlation is defined as the covariance of the two variables
 $$\rho(x,y) = \frac{cov(x,y)}{\sigma_x\sigma_y}$$
 For limited (and zero-mean) samples, this unfolds as the correlation coefficient:
 $$r(x,y) = \frac{ \frac{1}{n-1} \sum_i^n (x_i y_i)}
-{\sqrt{\frac{1}{n-1}\sum_i^n x_i } \sqrt{\frac{1}{n-1}\sum_i^n y_i}}$$
+{\sqrt{\frac{1}{n-1}\sum_i^n x_i^2 } \sqrt{\frac{1}{n-1}\sum_i^n y_i^2}}$$
 This looks familiar (apart from scaling $\frac{1}{n-1}$):
 $$\mathbf{x} \cdot  \mathbf{y} = x_1 y_1 + x_2 y_2 + \ldots +  x_n y_n = \sum_i^n x_i y_i$$
 \end{frame}
@@ -249,13 +249,13 @@ $$\mathbf{x} \cdot  \mathbf{y} = x_1 y_1 + x_2 y_2 + \ldots +  x_n y_n = \sum_i^
 %------------------------------------------------
 \begin{frame}
 \frametitle{Correlation and the inner product}
-So, it turns out that (for zero mean variables) the covariance is equal to the (scaled) inner-product:
+So, it turns out that (for zero mean variables) the covariance is equal to the inner-product:
 $$\mathbf{x} \cdot  \mathbf{y} = x_1 y_1 + x_2 y_2 + \ldots + x_n y_n= \sum_i^n x_i y_i = covar(x,y)$$
 
 Something similar is happening to the standard deviations:
-$$||x|| = \sqrt{x_1 + x_2 \ldots} = \sqrt{\sum_i x_i}$$
+$$||x|| = \sqrt{x_^21 + x_2^2 \ldots} = \sqrt{\sum_i x_i^2}$$
 So 
-$$\sqrt{\sum_ix_i} \sqrt{\sum_iy_i} = ||x|| ||y||$$
+$$\sqrt{\sum_ix_i^2} \sqrt{\sum_iy_i^2} = ||x|| ||y||$$
 \end{frame}
 
 
@@ -264,7 +264,7 @@ $$\sqrt{\sum_ix_i} \sqrt{\sum_iy_i} = ||x|| ||y||$$
 \frametitle{Correlation and the inner product}
 by  combining the info so far we get:
 $$r(x,y) = \frac{ \frac{1}{n-1}\sum_i x_i y_i}
-{\sqrt{\frac{1}{n-1}\sum_i x_i} \sqrt{\sum_i y_i}} = \frac{\mathbf{x} \cdot  \mathbf{y} } {||x|| ||y||} = \cos{\theta}$$
+{\sqrt{\frac{1}{n-1}\sum_i x_i^2} \sqrt{\sum_i y_i^2}} = \frac{\mathbf{x} \cdot  \mathbf{y} } {||x|| ||y||} = \cos{\theta}$$
 The correlation coefficient can thus be calculated by taking the inner-product of two vectors and by dividing this by their norms. A graphical interpretation is the angle between them: the closer the two (n-dimensional) vectors, the more correlated they are.\\
 Interactive example (iPython notebook)
 \end{frame}
