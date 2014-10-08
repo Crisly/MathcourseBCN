@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Background and recap}{3}{0}{1}
+\beamer@sectionintoc {2}{Applications}{8}{0}{2}
+\beamer@sectionintoc {3}{summary}{20}{0}{3}
