@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.6.19)  8 OCT 2014 17:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.6.19)  9 OCT 2014 12:51
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1009,45 +1009,23 @@ Overfull \vbox (5.68547pt too high) detected at line 247
 
 [8
 
-]
-./math_part2.tex:259: Missing { inserted.
-<to be read again> 
-                   ^
-l.259 \end{frame}
-                 
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-./math_part2.tex:259: Missing } inserted.
-<inserted text> 
-                }
-l.259 \end{frame}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-[9
+] [9
 
 ] [10
 
-] <relation_venn_stats_a.png, id=348, 284.7438pt x 284.7438pt>
+] <relation_venn_stats_a.png, id=351, 284.7438pt x 284.7438pt>
 File: relation_venn_stats_a.png Graphic file (type png)
 
 <use relation_venn_stats_a.png>
-Package pdftex.def Info: relation_venn_stats_a.png used on input line 296.
+Package pdftex.def Info: relation_venn_stats_a.png used on input line 297.
 (pdftex.def)             Requested size: 219.71397pt x 219.71829pt.
 
-Overfull \hbox (50.70361pt too wide) in paragraph at lines 296--296
+Overfull \hbox (50.70361pt too wide) in paragraph at lines 297--297
  [] 
  []
 
 
-Overfull \vbox (41.7493pt too high) detected at line 296
+Overfull \vbox (41.7493pt too high) detected at line 297
  []
 
 [11
@@ -1055,14 +1033,14 @@ Overfull \vbox (41.7493pt too high) detected at line 296
  <./relation_venn_stats_a.png (PNG copy)>] [12
 
 ]
-<relation_venn_stats_b.png, id=408, 284.7438pt x 284.7438pt>
+<relation_venn_stats_b.png, id=411, 284.7438pt x 284.7438pt>
 File: relation_venn_stats_b.png Graphic file (type png)
 
 <use relation_venn_stats_b.png>
-Package pdftex.def Info: relation_venn_stats_b.png used on input line 327.
+Package pdftex.def Info: relation_venn_stats_b.png used on input line 328.
 (pdftex.def)             Requested size: 215.10196pt x 215.10843pt.
 
-Overfull \vbox (52.94884pt too high) detected at line 327
+Overfull \vbox (52.94884pt too high) detected at line 328
  []
 
 [13
@@ -1072,49 +1050,49 @@ Overfull \vbox (52.94884pt too high) detected at line 327
 ] [15
 
 ]
-<pca.png, id=501, 336.25626pt x 338.26375pt>
+<pca.png, id=503, 336.25626pt x 338.26375pt>
 File: pca.png Graphic file (type png)
  <use pca.png>
-Package pdftex.def Info: pca.png used on input line 368.
+Package pdftex.def Info: pca.png used on input line 369.
 (pdftex.def)             Requested size: 153.64493pt x 154.56058pt.
 
-Overfull \vbox (62.53018pt too high) detected at line 368
+Overfull \vbox (62.53018pt too high) detected at line 369
  []
 
 [16
 
- <./pca.png>] <svm.png, id=532, 803.0pt x 865.2325pt>
+ <./pca.png>] <svm.png, id=534, 803.0pt x 865.2325pt>
 File: svm.png Graphic file (type png)
  <use svm.png>
-Package pdftex.def Info: svm.png used on input line 379.
+Package pdftex.def Info: svm.png used on input line 380.
 (pdftex.def)             Requested size: 199.73653pt x 215.21179pt.
 
-Overfull \vbox (53.0522pt too high) detected at line 379
+Overfull \vbox (53.0522pt too high) detected at line 380
  []
 
 [17
 
- <./svm.png>] <parallelogram.png, id=563, 580.1675pt x 340.27126pt>
+ <./svm.png>] <parallelogram.png, id=565, 580.1675pt x 340.27126pt>
 File: parallelogram.png Graphic file (type png)
 
 <use parallelogram.png>
-Package pdftex.def Info: parallelogram.png used on input line 391.
+Package pdftex.def Info: parallelogram.png used on input line 392.
 (pdftex.def)             Requested size: 215.10196pt x 126.15799pt.
 
-Overfull \vbox (3.9359pt too high) detected at line 391
+Overfull \vbox (3.9359pt too high) detected at line 392
  []
 
 [18
 
  <./parallelogram.png>]
-<volume_parallelepiped.png, id=594, 543.02875pt x 325.215pt>
+<volume_parallelepiped.png, id=596, 543.02875pt x 325.215pt>
 File: volume_parallelepiped.png Graphic file (type png)
 
 <use volume_parallelepiped.png>
-Package pdftex.def Info: volume_parallelepiped.png used on input line 402.
+Package pdftex.def Info: volume_parallelepiped.png used on input line 403.
 (pdftex.def)             Requested size: 307.28987pt x 184.0396pt.
 
-Overfull \vbox (21.88pt too high) detected at line 402
+Overfull \vbox (21.88pt too high) detected at line 403
  []
 
 [19
@@ -1135,11 +1113,11 @@ Overfull \vbox (21.88pt too high) detected at line 402
 \tf@snm=\write8
 \openout8 = `math_part2.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 433.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 433.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 434.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 434.
  (./math_part2.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 433.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 433.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 434.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 434.
 Package rerunfilecheck Info: File `math_part2.out' has not changed.
 (rerunfilecheck)             Checksum: D88B533D7FFC1226250EEDA65D694CB2;144.
 
@@ -1147,7 +1125,7 @@ Package rerunfilecheck Info: File `math_part2.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 433.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 434.
  ) 
 Here is how much of TeX's memory you used:
  16855 strings out of 493117
@@ -1170,10 +1148,10 @@ local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/lo
 cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on math_part2.pdf (22 pages, 323224 bytes).
+Output written on math_part2.pdf (22 pages, 324305 bytes).
 PDF statistics:
- 768 PDF objects out of 1000 (max. 8388607)
- 699 compressed objects within 7 object streams
+ 771 PDF objects out of 1000 (max. 8388607)
+ 701 compressed objects within 8 object streams
  48 named destinations out of 1000 (max. 500000)
  112 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -253,7 +253,7 @@ So, it turns out that (for zero mean variables) the covariance is equal to the i
 $$\mathbf{x} \cdot  \mathbf{y} = x_1 y_1 + x_2 y_2 + \ldots + x_n y_n= \sum_i^n x_i y_i = covar(x,y)$$
 
 Something similar is happening to the standard deviations:
-$$||x|| = \sqrt{x_^21 + x_2^2 \ldots} = \sqrt{\sum_i x_i^2}$$
+$$||x|| = \sqrt{x_1^2 + x_2^2 \ldots}  = \sqrt{\sum_i x_i^2}$$
 So 
 $$\sqrt{\sum_ix_i^2} \sqrt{\sum_iy_i^2} = ||x|| ||y||$$
 \end{frame}
@@ -264,9 +264,10 @@ $$\sqrt{\sum_ix_i^2} \sqrt{\sum_iy_i^2} = ||x|| ||y||$$
 \frametitle{Correlation and the inner product}
 by  combining the info so far we get:
 $$r(x,y) = \frac{ \frac{1}{n-1}\sum_i x_i y_i}
-{\sqrt{\frac{1}{n-1}\sum_i x_i^2} \sqrt{\sum_i y_i^2}} = \frac{\mathbf{x} \cdot  \mathbf{y} } {||x|| ||y||} = \cos{\theta}$$
+{\sqrt{\frac{1}{n-1}\sum_i x_i^2} \sqrt{\frac{1}{n-1}\sum_i y_i^2}} = \frac{\mathbf{x} \cdot  \mathbf{y} } {||x|| ||y||} = \cos{\theta}$$
 The correlation coefficient can thus be calculated by taking the inner-product of two vectors and by dividing this by their norms. A graphical interpretation is the angle between them: the closer the two (n-dimensional) vectors, the more correlated they are.\\
 Interactive example (iPython notebook)
+\url{http://nbviewer.ipython.org/github/Crisly/MathcourseBCN/blob/master/math\%20BCN.ipynb}
 \end{frame}
 
 %------------------------------------------------
